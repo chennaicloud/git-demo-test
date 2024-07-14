@@ -17,8 +17,8 @@ public class CreateWebSource
 {
   public static void main(String[] args) throws Exception
   {
-    System.out.println( "" );
- 
+    System.out.println( "This is on - v1.0" );
+     
     try
     {
       if ( args == null || args.length != 4 )
