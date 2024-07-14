@@ -19,8 +19,7 @@ public class CreateWebSource
   {
     System.out.println( "" );
     System.out.println( "This is on - v1.0" );
-    System.out.println( "Hope this version finds well" );
- 
+     
     try
     {
       if ( args == null || args.length != 4 )
