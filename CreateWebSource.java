@@ -162,7 +162,7 @@ public class CreateWebSource
         );
         
         System.out.println("Started schedule..."); 
-        System.out.println("Waiting 30 seconds to get status...");
+        System.out.println("Waiting 40 seconds to get status...");
         Thread.sleep( 30000 );
  
         // 6. Use object key above to get schedule state
